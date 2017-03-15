@@ -142,7 +142,7 @@
 
           <div class="banner">
               <h1 class="mdl-typography--text-center font-override margin-override"><?php print $title; ?></h1>
-              <a href="/node/add/project">
+              <a href="<?php print url("/node/add/project");?>">
                   <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored font-override font-color-white" data-upgraded=",MaterialButton,MaterialRipple">
                       <?php print t("Create a project");?>
                       <span class="mdl-button__ripple-container"><span class="mdl-ripple"></span></span></button>

@@ -148,6 +148,14 @@
 
 a,
 a:hover{
-    color: #2196f3;
+    color: rgb(76,175,80);
     text-decoration: none;
+}
+
+.field .field-label{
+    font-family: Lato, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 40px;
+    margin: 24px 0;
 }
