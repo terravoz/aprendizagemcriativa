@@ -43,6 +43,14 @@ function aprendizagemcriativa_preprocess_node(&$variables) {
       }
     }
     $variables['author'] = implode($authors_output, ", ");
+    $image = field_get_items('node', $node, 'field_image');
+    if ($image) {
+      $variables['background_image'] = file_create_url($image[0]['uri']);
+    }
+    else {
+      $variables['background_image'] = '';
+    }
+
 
   }
 }

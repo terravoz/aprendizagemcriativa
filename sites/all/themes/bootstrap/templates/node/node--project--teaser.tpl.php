@@ -78,12 +78,12 @@
  *
  * @ingroup templates
  */
-//kpr($content);
+//kpr(file_create_url($node->field_image[]));
 //die();
 ?>
 
 <div class="custom-card-wide mdl-card mdl-shadow--2dp">
-    <div class="mdl-card__title title-container-override" id="project-10" style="background-image: url(&quot;http://forum.aprendizagemcriativa.org/uploads/default/original/1X/28a772f67573cbae3d8de2e8b7df02ddaec6692b.jpg&quot;);">
+    <div class="mdl-card__title title-container-override" id="project-10" style="background-image: url(&quot;<?php print $background_image;?>&quot;);">
         <h2 class="mdl-card__title-text titles-override font-override"><?php print $title;?></h2>
         <h6 class="mdl-card__subtitle-text-custom font-override"><?php print $author;?></h6>
     </div>

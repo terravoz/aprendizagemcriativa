@@ -361,3 +361,17 @@ a:hover{
     margin-right: -8px;
     margin-left: -8px;
 }
+
+.custom-card-wide .field-name-field-description-what-the-learn{
+    min-height: 72px;
+}
+
+.pagination > li > a, .pagination > li > span,
+.pagination > li > a:hover, .pagination > li > span:hover, .pagination > li > a:focus, .pagination > li > span:focus{
+    color: rgb(76,175,80);
+}
+
+.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus{
+    background-color: rgb(76,175,80);
+    border-color:rgb(76,175,80);
+}
