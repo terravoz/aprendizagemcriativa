@@ -152,10 +152,22 @@ a:hover{
     text-decoration: none;
 }
 
-.field .field-label{
+.field-group-label h3 span{
     font-family: Lato, Helvetica, Arial, sans-serif;
     font-weight: 400;
     font-size: 34px;
     line-height: 40px;
     margin: 24px 0;
+}
+
+.field-label-above .field-label{
+    margin-top: 24px;
+    margin-bottom: 10px;
+}
+
+.field-label-inline{
+    margin-top: 24px;
+}
+.multipage-controls-list input.form-submit{
+    margin-right: 5px;
 }
