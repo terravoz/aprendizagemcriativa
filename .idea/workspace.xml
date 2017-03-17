@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d3f2818-fb70-4430-bdb8-db990c00a5bf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/aprendizagemcriativa/css/style.css" afterPath="$PROJECT_DIR$/sites/all/themes/aprendizagemcriativa/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/aprendizagemcriativa/template.php" afterPath="$PROJECT_DIR$/sites/all/themes/aprendizagemcriativa/template.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/aprendizagemcriativa/templates/page.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/aprendizagemcriativa/templates/page.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/bootstrap/templates/node/node--project--teaser.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/bootstrap/templates/node/node--project--teaser.tpl.php" />
-    </list>
+    <list default="true" id="8d3f2818-fb70-4430-bdb8-db990c00a5bf" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -682,12 +677,12 @@
       <option name="presentableId" value="Default" />
       <updated>1489504546384</updated>
       <workItem from="1489504547922" duration="3519000" />
-      <workItem from="1489593879845" duration="8711000" />
+      <workItem from="1489593879845" duration="8842000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12230000" />
+    <option name="totallyTimeSpent" value="12361000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
