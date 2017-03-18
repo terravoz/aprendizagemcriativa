@@ -152,6 +152,13 @@ a:hover{
     text-decoration: none;
 }
 
+.btn-primary,
+.btn-info,
+.btn-info:hover{
+    background-color: rgb(76,175,80);
+    border-color: rgb(76,175,80);
+}
+
 .field-group-label h3 span{
     font-family: Lato, Helvetica, Arial, sans-serif;
     font-weight: 400;
