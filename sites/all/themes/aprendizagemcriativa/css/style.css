@@ -158,6 +158,7 @@ a:hover{
 }
 
 .btn-primary,
+.btn-primary:hover,
 .btn-info,
 .btn-info:hover{
     background-color: rgb(76,175,80);
