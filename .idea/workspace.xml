@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d3f2818-fb70-4430-bdb8-db990c00a5bf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/aprendizagemcriativa/css/style.css" afterPath="$PROJECT_DIR$/sites/all/themes/aprendizagemcriativa/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/aprendizagemcriativa/templates/page.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/aprendizagemcriativa/templates/page.tpl.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,11 +18,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/aprendizagemcriativa/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="928">
-              <caret line="397" column="22" lean-forward="false" selection-start-line="397" selection-start-column="22" selection-end-line="397" selection-end-column="22" />
+            <state relative-caret-position="859">
+              <caret line="430" column="16" lean-forward="false" selection-start-line="430" selection-start-column="16" selection-end-line="430" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -31,7 +31,7 @@
       <file leaf-file-name="template.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/aprendizagemcriativa/template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
+            <state relative-caret-position="403">
               <caret line="43" column="5" lean-forward="false" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
               <folding>
                 <element signature="e#6#62#0#PHP" expanded="true" />
@@ -43,7 +43,7 @@
       <file leaf-file-name="node--project--teaser.tpl.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/bootstrap/templates/node/node--project--teaser.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1215">
+            <state relative-caret-position="673">
               <caret line="81" column="8" lean-forward="false" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="8" />
               <folding>
                 <element signature="e#6#4091#0#PHP" expanded="true" />
@@ -72,11 +72,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page.tpl.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="page.tpl.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/aprendizagemcriativa/templates/page.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2145">
-              <caret line="143" column="0" lean-forward="false" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
+            <state relative-caret-position="404">
+              <caret line="140" column="90" lean-forward="true" selection-start-line="140" selection-start-column="90" selection-end-line="140" selection-end-column="90" />
               <folding>
                 <element signature="e#6#3287#0#PHP" expanded="true" />
               </folding>
@@ -141,9 +141,9 @@
         <option value="$PROJECT_DIR$/sites/all/themes/aprendizagemcriativa/templates/node/node.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/bootstrap/templates/node/node__project__teaser.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/bootstrap/templates/node/node--project--teaser.tpl.php" />
-        <option value="$PROJECT_DIR$/sites/all/themes/aprendizagemcriativa/templates/page.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/aprendizagemcriativa/template.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/aprendizagemcriativa/css/style.css" />
+        <option value="$PROJECT_DIR$/sites/all/themes/aprendizagemcriativa/templates/page.tpl.php" />
       </list>
     </option>
   </component>
@@ -641,12 +641,12 @@
       <workItem from="1489504547922" duration="3519000" />
       <workItem from="1489593879845" duration="8842000" />
       <workItem from="1489756600436" duration="2673000" />
-      <workItem from="1490020562748" duration="460000" />
+      <workItem from="1490020562748" duration="1014000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15494000" />
+    <option name="totallyTimeSpent" value="16048000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -1010,36 +1010,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/aprendizagemcriativa/templates/page.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2145">
-          <caret line="143" column="0" lean-forward="false" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#3287#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/bootstrap/templates/node/node--project--teaser.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1215">
-          <caret line="81" column="8" lean-forward="false" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="8" />
-          <folding>
-            <element signature="e#6#4091#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/aprendizagemcriativa/template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="5" lean-forward="false" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
-          <folding>
-            <element signature="e#6#62#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/bootstrap/css/3.3.7/overrides-cerulean.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
@@ -1050,9 +1020,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/aprendizagemcriativa/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="928">
-          <caret line="397" column="22" lean-forward="false" selection-start-line="397" selection-start-column="22" selection-end-line="397" selection-end-column="22" />
+        <state relative-caret-position="859">
+          <caret line="430" column="16" lean-forward="false" selection-start-line="430" selection-start-column="16" selection-end-line="430" selection-end-column="16" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/aprendizagemcriativa/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="43" column="5" lean-forward="false" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+          <folding>
+            <element signature="e#6#62#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/bootstrap/templates/node/node--project--teaser.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="673">
+          <caret line="81" column="8" lean-forward="false" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="8" />
+          <folding>
+            <element signature="e#6#4091#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/aprendizagemcriativa/templates/page.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="140" column="90" lean-forward="true" selection-start-line="140" selection-start-column="90" selection-end-line="140" selection-end-column="90" />
+          <folding>
+            <element signature="e#6#3287#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

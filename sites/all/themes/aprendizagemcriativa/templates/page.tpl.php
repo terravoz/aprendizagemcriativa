@@ -138,15 +138,10 @@
       <?php if (!empty($title)): ?>
 
           <div class="banner">
+              <h1 class="mdl-typography--text-center font-override margin-override"><?php print $title; ?></h1>
             <?php if (!empty($secondary_nav)): ?>
               <?php print render($secondary_nav); ?>
             <?php endif; ?>
-              <h1 class="mdl-typography--text-center font-override margin-override"><?php print $title; ?></h1>
-              <a href="<?php print url("/node/add/project");?>">
-                  <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored font-override font-color-white" data-upgraded=",MaterialButton,MaterialRipple">
-                      <?php print t("Create a project");?>
-                      <span class="mdl-button__ripple-container"><span class="mdl-ripple"></span></span></button>
-              </a>
           </div>
       <?php endif; ?>
       <?php print render($title_suffix); ?>
