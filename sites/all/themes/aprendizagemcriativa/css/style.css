@@ -388,3 +388,12 @@ a:hover{
     background-color: rgb(76,175,80);
     border-color:rgb(76,175,80);
 }
+
+.field-type-text-long fieldset.filter-wrapper .form-item.form-type-select{
+    display:none;
+}
+
+.vertical-tabs-panes .help-block{
+    font-size: 16px;
+    font-weight: bold;
+}
