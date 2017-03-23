@@ -72,3 +72,5 @@ function aprendizagemcriativa_preprocess_node(&$variables) {
 
   }
 }
+
+function aprendizagemcriativa_filter_tips_more_info() { return ''; }

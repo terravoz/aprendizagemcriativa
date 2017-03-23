@@ -430,3 +430,7 @@ a:hover{
 .navbar-nav > li{
     margin: 3px;
 }
+
+.text-format-wrapper .filter-wrapper {
+    display: none;
+}
